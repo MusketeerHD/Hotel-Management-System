@@ -15,7 +15,7 @@
 
 ### 🏠 [Homepage](https://github.com/MusketeerHD/Hotel-Management-System)
 
-### ✨ [Demo](https://github.com/MusketeerHD/Hotel-Management-System)
+### ✨ [Demo](https://github.com/MusketeerHD/Hotel-Management-System/blob/main/README.md)
 
 ## Author
 
