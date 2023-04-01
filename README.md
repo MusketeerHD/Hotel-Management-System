@@ -29,7 +29,7 @@
 * NetBeans IDE 8.2
 
 ## How to use :
-1. Clone repositori ini dengan perintah git clone https://github.com/MusketeerHD/Hotel-Management-System.git
+1. Clone repositori ini dengan perintah git clone `https://github.com/MusketeerHD/Hotel-Management-System.git`
 2. Buka NetBeans IDE 8.2 dan buka projek dengan memilih `File > Open Project`. Pilih folder tempat Anda melakukan cloning projek ini.
 3. Double click pada `build.xml` untuk membuild Hotel Management System App dan masuk pada project
 4. Lalu simply jalankan projek dengan menekan tombol F6 atau dengan memilih Run > Run Project.
