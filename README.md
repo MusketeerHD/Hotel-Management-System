@@ -35,9 +35,9 @@
 4. Lalu simply jalankan projek dengan menekan tombol F6 atau dengan memilih Run > Run Project.
 
 #NOTE
-`Admin home :
-- username : admin
-- password : admin1234`
+Admin home :
+`- username : admin`
+`- password : admin1234`
 
 ## Author
 
