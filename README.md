@@ -17,6 +17,28 @@
 
 ### ✨ [Demo](https://github.com/MusketeerHD/Hotel-Management-System/blob/main/README.md)
 
+## Features :
+
+* Daftar kamar yang tersedia beserta informasi mengenai harga, fasilitas, dan status ketersediaannya.
+* Daftar pelanggan yang telah melakukan reservasi beserta informasi mengenai identitas, nomor telepon, dan email.
+* Pemesanan kamar dan pembuatan faktur otomatis.
+* Pembatalan reservasi dan pembaruan informasi pelanggan.
+
+## Technology :
+* Java
+* NetBeans IDE 8.2
+
+## How to use :
+1. Clone repositori ini dengan perintah git clone https://github.com/MusketeerHD/Hotel-Management-System.git
+2. Buka NetBeans IDE 8.2 dan buka projek dengan memilih `File > Open Project`. Pilih folder tempat Anda melakukan cloning projek ini.
+3. Double click pada `build.xml` untuk membuild Hotel Management System App dan masuk pada project
+4. Lalu simply jalankan projek dengan menekan tombol F6 atau dengan memilih Run > Run Project.
+
+`Note`
+``Admin home :
+- username : admin
+- password : admin1234``
+
 ## Author
 
 👤 **Musketeer**
