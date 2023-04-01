@@ -30,4 +30,7 @@
 
 Give a ⭐️ if this project helped you!
 
+Copyright © 2023 [Musketeer](https://github.com/Musketeer).<br />
+This project is [MIT](https://github.com/MusketeerHD/Hotel-Management-System/blob/main/LICENSE) licensed.
+
 ***
