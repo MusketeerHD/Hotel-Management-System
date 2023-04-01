@@ -34,10 +34,10 @@
 3. Double click pada `build.xml` untuk membuild Hotel Management System App dan masuk pada project
 4. Lalu simply jalankan projek dengan menekan tombol F6 atau dengan memilih Run > Run Project.
 
-`Note`
-``shAdmin home :
+#NOTE
+`Admin home :
 - username : admin
-- password : admin1234``
+- password : admin1234`
 
 ## Author
 
